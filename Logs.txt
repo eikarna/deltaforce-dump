@@ -1,0 +1,48 @@
+e_machine: 0xB7
+Library: /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+BaseAddress: 0x731E2D2000
+731e2d2000-7328047000 r--p 0 fd:08 40726 /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+7328047000-7333dda000 r-xp 9d75000 fd:08 40726 /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+7333dda000-7336766000 rw-p 15b08000 fd:08 40726 /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+7336766000-7337228000 rw-p 0 00:00 0 [anon:.bss]
+7337228000-733722a000 ---p 0 00:00 0 
+733722a000-733722e000 r-xp 18494000 fd:08 40726 /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+733722e000-7337230000 rw-p 18497000 fd:08 40726 /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+7337230000-7337232000 ---p 0 00:00 0 
+7337232000-73372e6000 rw-p 18498000 fd:08 40726 /data/app/~~8QuqMMqCmQT2BNqrA5liSQ==/com.garena.game.df-9oHKwUMdrkmOcTfCbdjgQg==/lib/arm64/libUE4.so
+==========================
+FNamePool: [<Base> + 0x18BACD80] = 0x7336E7ED80
+Test dumping first 5 name entries
+GetNameByID(0): None
+GetNameByID(1): neÍşN0neíşNomeßû30949b77fd7e7042ùıSHVectorÁû992e7de5ca74c4d4şColor
+GetNameByID(2): ÍşN0neíşNomeßû30949b77fd7e7042ùıSHVectorÁû992e7de5ca74c4d4şColor
+GetNameByID(3): N0ne
+GetNameByID(4): neíşNomeßû30949b77fd7e7042ùıSHVectorÁû992e7de5ca74c4d4şColor
+==========================
+GUObjectArray: [<Base> + 0x18BCA1A0] = 0x7336E9C1A0
+ObjObjects: [<Base> + 0x18BCA1B0] = 0x7336E9C1B0
+ObjObjects Num: 69663
+Test Dumping First 5 Name Entries
+GetObjectPtr(0): CoreUObject
+GetObjectPtr(1): Object
+GetObjectPtr(2): Engine
+GetObjectPtr(3): BlueprintFunctionLibrary
+GetObjectPtr(4): UE4Singletons
+==========================
+Finding GEngine & GWorld...
+Class Engine.Engine -> 0x72D748FD80
+Class Engine.World -> 0x73440F7180
+Couldn't find refrence to GEngine.
+Couldn't find refrence to GWorld.
+==========================
+Gathering UObjects...
+Gathered 69663 Objects (Packages 305)
+==========================
+Saved packages: 305
+Saved classes: 9149
+Saved structs: 6333
+Saved enums: 2759
+==========================
+Generating script json...
+Functions: 34294
+==========================
